@@ -27,8 +27,8 @@
 
 The rulebook covers the whole West: the four endings and the score, the difficulty levels, the valley and its seasons, the 33 people you can rally and whom they trust, the command map, the baron's pressure on the ranches and how to help them, his bands and the Crown T, Liberty and its prices, the law (evidence, the federal judge, the sheriff election, killer reputation), horses, the wagon, weapons and duels, the West's Duel and Raid, the Lazy H Logbook, the controls, a quick reference and an index. **Tip** boxes along the way give players' advice.
 
-- **Read online**: [Rulebook (English)](https://zedoc84.github.io/Guerilla-Ouest/Guerilla-West-Rulebook-EN.html) · [Livret de règles (français)](https://zedoc84.github.io/Guerilla-Ouest/Guerilla-Ouest-Livret-de-regles-FR.html)
-- **PDF**, to print or keep: [Guerilla-West-Rulebook-EN.pdf](Guerilla-West-Rulebook-EN.pdf) · [Guerilla-Ouest-Livret-de-regles-FR.pdf](Guerilla-Ouest-Livret-de-regles-FR.pdf)
+- **Read online**: [Rulebook (English)](https://zedoc84.github.io/Western/Guerilla-West-Rulebook-EN.html) · [Livret de règles (français)](https://zedoc84.github.io/Western/Guerilla-Ouest-Livret-de-regles-FR.html)
+- **PDF**, to print or keep: [Guerilla-West-Rulebook-EN.pdf](https://github.com/zedoc84/Western/raw/main/Guerilla-West-Rulebook-EN.pdf) · [Guerilla-Ouest-Livret-de-regles-FR.pdf](https://github.com/zedoc84/Western/raw/main/Guerilla-Ouest-Livret-de-regles-FR.pdf)
 
 The online version works on a computer or a phone. It is a single page: save it from your browser to read it offline. The illustrations are screenshots of the game in development.
 
@@ -83,8 +83,8 @@ The full list is in the game: **Credits and licenses**, at the bottom of the tit
 
 Le livret couvre tout l'Ouest : les quatre fins et le score, les niveaux de jeu, la vallée et ses saisons, les 33 personnes à rallier et ceux en qui elles ont confiance, la carte d'état-major, la pression du baron sur les ranchs et la façon de les aider, ses bandes et le Crown T, Liberty et ses prix, la loi (les preuves, le juge fédéral, l'élection du shérif, la réputation de tueur), le cheval, le chariot, les armes et les duels, le Duel et le Coup de main de l'Ouest, le Carnet du Lazy H, les commandes, un récapitulatif et un index. Des encadrés **Conseil** donnent, au fil des pages, des conseils de joueur.
 
-- **À lire en ligne** : [Livret de règles (français)](https://zedoc84.github.io/Guerilla-Ouest/Guerilla-Ouest-Livret-de-regles-FR.html) · [Rulebook (English)](https://zedoc84.github.io/Guerilla-Ouest/Guerilla-West-Rulebook-EN.html)
-- **En PDF**, pour l'imprimer ou le garder : [Guerilla-Ouest-Livret-de-regles-FR.pdf](Guerilla-Ouest-Livret-de-regles-FR.pdf) · [Guerilla-West-Rulebook-EN.pdf](Guerilla-West-Rulebook-EN.pdf)
+- **À lire en ligne** : [Livret de règles (français)](https://zedoc84.github.io/Western/Guerilla-Ouest-Livret-de-regles-FR.html) · [Rulebook (English)](https://zedoc84.github.io/Western/Guerilla-West-Rulebook-EN.html)
+- **En PDF**, pour l'imprimer ou le garder : [Guerilla-Ouest-Livret-de-regles-FR.pdf](https://github.com/zedoc84/Western/raw/main/Guerilla-Ouest-Livret-de-regles-FR.pdf) · [Guerilla-West-Rulebook-EN.pdf](https://github.com/zedoc84/Western/raw/main/Guerilla-West-Rulebook-EN.pdf)
 
 La version en ligne se lit sur ordinateur comme sur téléphone. C'est une seule page : enregistrez-la depuis votre navigateur pour la lire hors connexion. Les illustrations sont des captures du jeu en cours de développement.
 
