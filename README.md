@@ -1,2 +1,2 @@
 # Western
-MOD gerilla dans le theme western
+MOD guerilla dans le theme western
